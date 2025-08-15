@@ -1,10 +1,9 @@
 {
   "credit": "MR. NoOB",
-  "enabled": false,
+  "enabled": true,
   "title": "🔔 Update Available!",
   "points": [
-    "🔥 Faster performance and smoother UI",
-    "🛠️ Bug fixes & stability improvements"
+    "🔥 Fixed bug where the credit dialog appeared full-screen for some users."
   ],
   "update_link": "https://t.me/heromodss",
   "cancel_text": "NOT NOW",
