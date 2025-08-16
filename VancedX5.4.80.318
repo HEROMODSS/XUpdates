@@ -1,6 +1,6 @@
 {
   "credit": "MR. NoOB",
-  "enabled": false,
+  "enabled": true,
   "title": "🔔 Update Available!",
   "points": [
     "🔥 Fixed bug where the credit dialog appeared full-screen for some users."
