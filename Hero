@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "title": "🔔 Update Available!",
+  "points": [
+    "🔥 Faster performance and smoother UI",
+    "🛠️ Bug fixes & stability improvements"
+  ],
+  "update_link": "https://t.me/heromodss",
+  "cancel_text": "NOT NOW",
+  "update_text": "UPDATE NOW"
+}
